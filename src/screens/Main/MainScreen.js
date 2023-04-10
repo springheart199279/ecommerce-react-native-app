@@ -30,7 +30,6 @@ class MainScreen extends React.Component {
   }
 
   render () {
-    // show a list of products
     return (
       <ScrollView>
         <ProductsList 
